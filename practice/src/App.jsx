@@ -2,14 +2,16 @@
 import Conditionalrendering from "./conditionalrendering"
 import Student from "./Student"
 import './index.css';
-import List from "./List";
-import Button from "./Button";
-import Picture from "./Picture"
-import MyComponent from "./MyComponent";
-import SetComponent from "./Onclick";
-import Onchange from "./Onchange";
-import UseState from "./UseState";
-import ColorPicker from "./ColorPicker";
+import Update_array from "./Update_array";
+// import List from "./List";
+// import Button from "./Button";
+// import Picture from "./Picture"
+// import MyComponent from "./MyComponent";
+// import SetComponent from "./Onclick";
+// import Onchange from "./Onchange";
+// import UseState from "./UseState";
+// import ColorPicker from "./ColorPicker";
+// import Onclick from "./Onclick"
 
 function App() {
   // const fruits = [{ id: 1, name: "apple", calorie: 50 },
@@ -31,7 +33,9 @@ function App() {
       {/* <SetComponent/> */}
       {/* <Onchange /> */}
       {/* <UseState/> */}
-      <ColorPicker />
+      {/* <ColorPicker /> */}
+      {/* <Onclick /> */}
+      <Update_array />
     </>
 
 

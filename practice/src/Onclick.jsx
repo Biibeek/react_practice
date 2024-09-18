@@ -18,7 +18,7 @@ function SetComponent() {
         <div><h1>
             value:{value}
         </h1>
-            <button  onClick={Increment}>Increment</button>
+            <button onClick={Increment}>Increment</button>
             <button onClick={Decrement}>Decrement</button>
             <button onClick={ResetValue}>Reset</button>
         </div>
